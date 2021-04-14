@@ -1,0 +1,96 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+html{
+    
+}
+
+#homePg{
+
+}
+#sectOne{
+    background: url('https://www.spacex.com/static/images/backgrounds-2021/HP_SN11_Vertical_20210311_IMG_01221.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#mainHeader{
+    
+}
+#spacexImg {
+    height: 30px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+nav{
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+    justify-content: space-between;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover {
+    background-color: transparent;
+    color: white;
+    text-decoration:underline white;
+}
+a:link {
+    text-decoration: none;
+}
+
+a.button {
+    text-decoration: underline;
+    }
+
+a.active {
+    background-color: #ffffff1e;
+    color: white;
+    text-decoration: none;
+}
+
+#sandwhichIcon {
+    padding: 20px;
+    display: inline-block;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+
+}
+
+#backgroundImg{
+    height: 100vw;
+    width: 100vh;
+}
+
+#sectTwo{
+    height: 100vw;
+    width: 100vh;
+    background-color: yellow;
+}
+
+#sectThree {
+    height: 100vw;
+    width: 100vh;
+    background-color: red;
+}

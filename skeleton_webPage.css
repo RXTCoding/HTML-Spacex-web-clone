@@ -1,0 +1,56 @@
+#mainHeader{
+    height: 10vh;
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+
+}
+
+#leftNav{
+    height: 10vh;
+    width: 50%;
+    background-color: turquoise;
+    
+}
+
+#rightNav{
+    height: 10vh;
+    width: 50%;
+    background-color: purple;
+}
+
+#sectOne{
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}
+
+#textBox{
+    height: 30px;
+    width: 100px;
+    background-color: slateblue;
+}
+
+#sectTwo{
+    height: 100vh;
+    width: 100vw;
+    background-color: orange;
+}
+
+#sectThree {
+    height: 100vh;
+    width: 100vw;
+    background-color: blue;
+}
+
+#sectFour{
+    height: 100vh;
+    width: 100vw;
+    background-color: violet;
+}
+
+#footer{
+    height: 10vh;
+    width: 100%;
+    background-color: pink;
+}
